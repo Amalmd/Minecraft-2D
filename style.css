@@ -1,0 +1,17 @@
+
+
+.menu {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.logoHolder {
+    width: 80%;
+    margin: 0 auto;
+}
+.logoHolder img {
+    width: 100%;
+}
+.start {
+    text-align: center;
+}
